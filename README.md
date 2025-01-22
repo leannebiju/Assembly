@@ -4,7 +4,11 @@
 to run the programs, open DOSBOX emulator and type in the following commands
 
 mount c <path>
+
 c:
+
 masm filename.asm
+
 link filename.obj
+
 filename.exe
