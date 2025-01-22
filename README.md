@@ -3,7 +3,7 @@
 
 to run the programs, open DOSBOX emulator and type in the following commands
 
-mount c <path>
+mount c path
 
 c:
 
